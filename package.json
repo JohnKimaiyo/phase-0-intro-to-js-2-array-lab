@@ -34,8 +34,8 @@
     "chai-spies-next": "^0.9.3"
   },
   "dependencies": {
-    "sinon": "^7.3.2",
-    "test":"index.js"
+    "sinon": "^7.3.2"
+   
 
   }
 }
